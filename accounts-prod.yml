@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to SpringBank accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@springbank.com"
+    email: "{cipher}c619cda2dfc44989bead5ac52f713983923154c19b073ea6b79ceb90f8b968acd964f1e016e977ff7f00098f6affcbb5"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
