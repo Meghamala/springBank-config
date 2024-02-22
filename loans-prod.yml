@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to SpringBank loans related webhook APIs "
+  message: "Welcome to SpringBank loans related prod APIs "
   contactDetails:
     name: "Jon Snow - Prod Owner"
     email: "snow@springbank.com"
