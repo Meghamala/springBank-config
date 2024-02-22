@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to SpringBank accounts related prod APIs "
+  message: "Welcome to SpringBank accounts related production APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}c619cda2dfc44989bead5ac52f713983923154c19b073ea6b79ceb90f8b968acd964f1e016e977ff7f00098f6affcbb5"
